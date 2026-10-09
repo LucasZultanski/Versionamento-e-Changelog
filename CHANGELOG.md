@@ -7,6 +7,14 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-03-05
+
+### Fixed
+
+- A cafeteira preparava café descafeinado em todas as segundas-feiras, pois "segunda" era
+  interpretado como a "segunda opção" do menu de grãos.
+- Perfis com emoji no nome faziam o moedor entrar em loop infinito.
+
 ## [1.0.0] - 2026-02-23
 
 ### Added
@@ -81,7 +89,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.6.0...v1.0.0
 [0.6.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.4.0...v0.5.0
