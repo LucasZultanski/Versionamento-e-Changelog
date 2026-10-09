@@ -7,6 +7,15 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-03-18
+
+### Fixed
+
+- O sensor de nível de água confundia leite com água, permitindo preparar um "café com leite"
+  sem nenhum café.
+- O alerta de reservatório vazio tocava em volume máximo às 3h da manhã quando o agendamento
+  estava configurado para o dia seguinte.
+
 ## [1.0.1] - 2026-03-05
 
 ### Fixed
@@ -89,7 +98,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.1...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.6.0...v1.0.0
 [0.6.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.5.0...v0.6.0
