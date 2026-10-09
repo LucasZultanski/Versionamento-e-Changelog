@@ -7,6 +7,12 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-07-13
+
+### Deprecated
+
+- Exportação do histórico de cafés em CSV. Será removida na versão 2.0.0.
+
 ## [1.3.0] - 2026-06-08
 
 ### Changed
@@ -131,7 +137,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.3.0...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.2.1...v1.3.0
 [1.2.1]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.1...v1.2.0
