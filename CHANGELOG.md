@@ -7,6 +7,21 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-02-23
+
+### Added
+
+- Documentação completa da API pública.
+- Página de ajuda com a lista de todos os comandos disponíveis.
+
+### Changed
+
+- API pública estabilizada sob o prefixo `/api/v1`.
+
+### Fixed
+
+- O histórico de cafés registrava o preparo duas vezes quando a notificação era reenviada.
+
 ## [0.6.0] - 2026-02-02
 
 ### Added
@@ -66,7 +81,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.6.0...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.6.0...v1.0.0
 [0.6.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.3.0...v0.4.0
