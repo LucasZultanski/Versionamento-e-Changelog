@@ -7,6 +7,13 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [1.1.1] - 2026-04-14
+
+### Fixed
+
+- A granulometria "extrafina" moía os grãos a ponto de entupir o filtro, e a nuvem de pó de
+  café resultante acionava o detector de fumaça da cozinha.
+
 ## [1.1.0] - 2026-04-06
 
 ### Added
@@ -104,7 +111,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.2...v1.1.0
 [1.0.2]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.0...v1.0.1
