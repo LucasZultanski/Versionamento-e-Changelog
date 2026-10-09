@@ -7,6 +7,12 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-05-04
+
+### Added
+
+- Integração com assistentes de voz para iniciar, agendar e cancelar o preparo.
+
 ## [1.1.1] - 2026-04-14
 
 ### Fixed
@@ -111,7 +117,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.1...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.1...v1.2.0
 [1.1.1]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.2...v1.1.0
 [1.0.2]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v1.0.1...v1.0.2
