@@ -7,6 +7,13 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [0.4.0] - 2025-12-15
+
+### Added
+
+- Exportação do histórico de cafés em CSV.
+- Suporte a leite vaporizado, com receitas de cappuccino e latte.
+
 ## [0.3.0] - 2025-12-01
 
 ### Added
@@ -37,7 +44,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.3.0...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/releases/tag/v0.1.0
