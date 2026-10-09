@@ -7,6 +7,17 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-02-02
+
+### Added
+
+- Internacionalização da interface (português e inglês).
+- Modo "Plantão": preparo automático de um café forte ao detectar uso do sistema após as 22h.
+
+### Fixed
+
+- A conversão de temperatura exibia valores em Fahrenheit com o símbolo de Celsius.
+
 ## [0.5.0] - 2026-01-12
 
 ### Added
@@ -55,7 +66,8 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 - Configuração de intensidade do café (fraca, média e forte).
 - README com instruções de instalação e uso.
 
-[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.5.0...HEAD
+[unreleased]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.6.0...HEAD
+[0.6.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/LucasZultanski/Versionamento-e-Changelog/compare/v0.2.0...v0.3.0
